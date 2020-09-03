@@ -3,3 +3,6 @@
 ################################################################################
 
 /CosmosDB/obj
+/CosmosDB/bin/Debug/netcoreapp3.1
+/CosmosDB/CosmosDB.csproj.user
+/.vs
